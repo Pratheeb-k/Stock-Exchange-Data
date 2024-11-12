@@ -38,22 +38,6 @@ The dataset includes historical and processed stock exchange data with the follo
 - Predictive modeling for stock market trends
 - Interactive dashboards to visualize findings
 
-## How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stock-exchange-analysis.git
-   ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Load the dataset files (`indexData.csv`, `indexInfo.csv`, and `indexProcessed.csv`) into the scripts or dashboards.
-
-4. Run analysis scripts:
-   ```bash
-   python analyze_data.py
-   ```
-
 ## Results
 - Key insights and visualizations are stored in the `results` folder.
 - Dashboards are available in the `dashboards` folder for interactive exploration.
